@@ -35,8 +35,8 @@ Always open to connecting with like-minded professionals and exploring opportuni
 
 ## 📊 GitHub Stats  
 
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soham005&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham005&layout=compact&theme=radical)  
+![](https://github-readme-stats.vercel.app/api?username=Soham005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Soham005&theme=dark&hide_border=false)<br/>
 
 ---
 
