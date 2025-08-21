@@ -35,4 +35,6 @@ Always open to connecting with like-minded professionals and exploring opportuni
 
 ---
 
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham005&show_icons=true&theme=radical)
+
 ⭐️ *“Data is the new oil, but analytics is the refinery.”*  
