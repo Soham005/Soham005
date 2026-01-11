@@ -42,8 +42,10 @@ Always open to connecting with like-minded professionals and exploring opportuni
 
 ## 🎯 Current Focus  
 
-- 🔧 Building **interactive dashboards** (Tableau, Power BI)  
-- 🐍 Expanding Python skills in **data cleaning, predictive modeling & machine learning**  
+- Building **interactive dashboards** (Tableau, Power BI)  
+- Expanding Python skills in **data cleaning, predictive modeling & machine learning**
+- Making models with help of **Machine Learning** & **Deep Learning**
+- Solving LeetCode question for interview prep and gaining more knowledge
 
 ---
 
@@ -51,7 +53,7 @@ Always open to connecting with like-minded professionals and exploring opportuni
 
 | Then | Now | Exploring |
 |------|-----|-----------|
-| Excel, PowerPoint, Basic Statistics | Python, Tableau, Power BI, SQL, GitHub | Machine Learning, Deep Learning, Cloud (AWS/GCP) |
+| Excel, PowerPoint, Basic Statistics | Python, Tableau, Power BI, SQL, GitHub | Machine Learning, Deep Learning, GenAI, LeetCode |
 
 ---
 
@@ -59,6 +61,7 @@ Always open to connecting with like-minded professionals and exploring opportuni
 
 🌐 **LinkedIn:** https://www.linkedin.com/in/sohamchogale
 📧 **Email:** smchogale@gmail.com  
+🎯 **LeetCode** https://leetcode.com/u/lifeeofsoham/
 
 ---
 
