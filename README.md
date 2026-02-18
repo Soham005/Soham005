@@ -1,22 +1,24 @@
 # 👋 Hi, I'm Soham Chogale  
 
-💻 Aspiring Data Analyst | 📊 Tableau | 📈 Power BI | 🐍 Python  
+💻 Aspiring Data Analyst → Future Data Scientist  
+📊 Tableau | 📈 Power BI | 🐍 Python | 🤖 AI Enthusiast  
 
-Welcome to my GitHub profile! I love exploring data, building dashboards, and turning numbers into insights.  
+Turning data into decisions. Turning curiosity into capability.  
 
 ---
 
 ## 🚀 About Me  
 
-I’m an aspiring **Data Analyst** with a strong drive for operational excellence and business growth. With over a year of internship experience, I bring a practical approach to solving real-world challenges through data.  
+I’m an aspiring **Data Analyst** focused on building real-world, impact-driven solutions using data. With hands-on internship experience, I bridge business needs with technical execution — combining analytics, visualization, and machine learning to drive insights.
 
-✨ **Key Skills and Achievements:**  
-- 📌 Translating business needs into technical solutions using Python, R, Excel, and SQL  
-- 📊 Skilled in data analysis, market research, and uncovering trends that drive decision-making  
-- 🗣️ Strong communicator who bridges the gap between technical teams and business stakeholders  
-- 🎨 Proficient in **data visualization** with Tableau, Power BI, Excel, Matplotlib & Seaborn  
+✨ **What I Bring to the Table:**  
+- 📌 Translating business problems into data-driven solutions  
+- 📊 Strong foundation in analytics, data cleaning & exploratory analysis  
+- 📈 Building dashboards that support strategic decisions  
+- 🤖 Developing ML & DL models for predictive insights  
+- 🧠 Continuously learning AI systems & automation workflows  
 
-Always open to connecting with like-minded professionals and exploring opportunities to **learn, grow, and contribute**.  
+I believe in **consistent growth, practical learning, and long-term mastery.**
 
 ---
 
@@ -35,25 +37,28 @@ Always open to connecting with like-minded professionals and exploring opportuni
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=Soham005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Soham005&theme=dark&hide_border=false)<br/>
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham005&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham005&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Soham005&theme=tokyonight)
 
 ---
 
 ## 🎯 Current Focus  
 
-- Building **interactive dashboards** (Tableau, Power BI)  
-- Expanding Python skills in **data cleaning, predictive modeling & machine learning**
-- Making models with help of **Machine Learning** & **Deep Learning**
-- Solving LeetCode question for interview prep and gaining more knowledge
+- 📊 Building **interactive dashboards** (Tableau, Power BI)  
+- 🤖 Making models with help of **Machine Learning & Deep Learning**  
+- 🗄️ Learning more about **Big Data ecosystems**  
+- 🔍 Exploring **RAG (Retrieval-Augmented Generation) systems**  
+- 🔄 Experimenting with **n8n workflows & automation systems** 
 
 ---
 
 ## 🛠 My Tech Evolution  
-
 | Then | Now | Exploring |
-|------|-----|-----------|
-| Excel, PowerPoint, Basic Statistics | Python, Tableau, Power BI, SQL, GitHub | Machine Learning, Deep Learning, GenAI, LeetCode |
+|------|------|------------|
+| Excel, PowerPoint, Basic Statistics, Python, Tableau, Power BI, SQL, GitHub | Machine Learning, Deep Learning, GenAI, LeetCode | Big Data, RAG Systems, n8n Workflows, AI Automation |
 
 ---
 
@@ -66,3 +71,4 @@ Always open to connecting with like-minded professionals and exploring opportuni
 ---
 
 ⭐️ *“Data is the new oil, but analytics is the refinery.”*  
+🔥 *Consistency compounds.*
