@@ -37,10 +37,6 @@ I believe in **consistent growth, practical learning, and long-term mastery.**
 
 ## 📊 GitHub Stats  
 
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham005&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham005&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Soham005&theme=tokyonight)
 
 ---
