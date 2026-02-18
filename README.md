@@ -63,6 +63,7 @@ I believe in **consistent growth, practical learning, and long-term mastery.**
 🌐 **LinkedIn:** https://www.linkedin.com/in/sohamchogale
 📧 **Email:** smchogale@gmail.com  
 🎯 **LeetCode** https://leetcode.com/u/lifeeofsoham/
+💻 **Portfolio** https://soham-data-canvas.lovable.app
 
 ---
 
